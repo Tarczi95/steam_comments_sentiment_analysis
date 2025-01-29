@@ -1,17 +1,14 @@
-# Personal Analysis Repository
+# Steam comments sentiment analysis
 
 ## Overview
-Welcome to my personal analysis repository! This repository is dedicated to storing Jupyter Notebooks (.ipynb) containing various data analyses, along with accompanying Python scripts and libraries for personal use.
+This repository contains a notebook with analysis on steam comments dataset along with externalized utils functions in a python script file.
 
 ## Contents
 
-### Analysis Notebooks: *Explore detailed data analyses in Jupyter Notebooks*.
+- Exploratory analysis of user comments on steam
+- Sentiment analysis using pre-trained NLTK model
+- Evaluation of sentiment detection model using the "Recommended" value of each entry as source of truth
 
-### Streamlit dashboards: *Small interactive analysis dashboards built in streamlit*
-
-### Scripts/Libraries: *Personal Python libraries/modules used across different analyses*.
-
-## Getting Started
 ### Prerequisites
 
 Python 3.x
